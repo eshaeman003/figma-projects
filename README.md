@@ -373,60 +373,64 @@ These projects focus on developing smaller UI components and exploring visual id
 
 ---
 
-#  HCI Concepts Explored
+## HCI Concepts Explored
 
 These projects provided practical experience with several Human-Computer Interaction concepts.
 
-###  User-Centered Design
+### User-Centered Design
 
 Interfaces were designed around the tasks and needs of their intended users rather than focusing purely on visual appearance.
 
-###  Information Architecture
+### Information Architecture
 
 Content was organized into logical sections so users can understand where information belongs and how different parts of the interface relate to one another.
 
-###  Visual Hierarchy
+### Visual Hierarchy
 
 Different visual properties were used to communicate importance, including:
 
-* Size
-* Typography
-* Spacing
-* Position
-* Contrast
-* Grouping
+- Size
+- Typography
+- Spacing
+- Position
+- Contrast
+- Grouping
 
-###  Interaction Design
+### Interaction Design
 
 The prototypes explore how users move through interfaces and complete common tasks such as:
 
-* Registering
-* Browsing
-* Booking
-* Searching
-* Viewing information
-* Navigating between screens
+- Registering
+- Browsing
+- Booking
+- Searching
+- Managing tasks
+- Automating workflows
+- Discovering content
+- Planning trips
+- Viewing information
+- Navigating between screens
 
-###  Visual Design
+### Visual Design
 
 The collection also explores:
 
-* Color palettes
-* Typography
-* Layouts
-* Icons
-* Cards
-* Buttons
-* Images
-* Branding
+- Color palettes
+- Typography
+- Layouts
+- Icons
+- Cards
+- Buttons
+- Images
+- Branding
+- Dark themes
+- Luxury & premium aesthetics
 
----
-
-#  Design Process
+## Design Process
 
 A simplified workflow behind these projects can be represented as:
 
-```text
+```javascript
         Problem / Idea
               │
               ▼
@@ -453,113 +457,107 @@ A simplified workflow behind these projects can be represented as:
 
 The exact process varied depending on the project and its requirements.
 
----
+## Tools & Technologies
 
-#  Tools & Technologies
+| Tool | Purpose |
+| --- | --- |
+| Figma | UI design & prototyping |
+| Figma Components | Reusable interface elements |
+| Auto Layout | Structured and responsive layouts |
+| Prototyping | Interactive user flows |
+| Typography | Visual hierarchy |
+| Color & Visual Design | Branding and communication |
+| HCI Principles | User-centered interface design |
 
-| Tool                      | Purpose                           |
-| ------------------------- | --------------------------------- |
-| **Figma**                 | UI design & prototyping           |
-| **Figma Components**      | Reusable interface elements       |
-| **Auto Layout**           | Structured and responsive layouts |
-| **Prototyping**           | Interactive user flows            |
-| **Typography**            | Visual hierarchy                  |
-| **Color & Visual Design** | Branding and communication        |
-| **HCI Principles**        | User-centered interface design    |
+These are design projects, so traditional programming languages are intentionally not listed as the primary technology stack.
 
-> These are **design projects**, so traditional programming languages are intentionally not listed as the primary technology stack.
+## 📊 Project Coverage
 
----
+| Project | Domain | Primary Focus |
+| --- | --- | --- |
+| Health Record App | Healthcare | Information & UX |
+| Student Dashboard | Education | Dashboard & Navigation |
+| Water Poster | Awareness | Visual Communication |
+| Furniture Design | E-Commerce / Product | Product Presentation |
+| Ticket Booking | Travel / Booking | User Flow |
+| Mobile Gallery | Mobile UI | Media Organization |
+| Portfolio Designs | Professional | Personal Branding |
+| Property Platform | Real Estate | Marketplace UX |
+| Logos & Auth | Branding / Authentication | Visual Identity |
+| Team Productivity App | Productivity / SaaS | Task Management & Collaboration |
+| FlowPilot | AI / Automation | Workflow UI Concept |
+| NOIR | Luxury / E-Commerce | Landing Page & Branding |
+| Muse | AI / Creative Tools | Content Discovery & Inspiration |
+| Mugs&Co | Hospitality / Food | Café Website & Brand Identity |
+| Roam | Travel | Discovery & Experience Platform |
 
-# 📊 Project Coverage
+## Academic Context
 
-| Project           | Domain                    | Primary Focus          |
-| ----------------- | ------------------------- | ---------------------- |
-| Health Record App | Healthcare                | Information & UX       |
-| Student Dashboard | Education                 | Dashboard & Navigation |
-| Water Poster      | Awareness                 | Visual Communication   |
-| Furniture Design  | E-Commerce / Product      | Product Presentation   |
-| Ticket Booking    | Travel / Booking          | User Flow              |
-| Mobile Gallery    | Mobile UI                 | Media Organization     |
-| Portfolio Designs | Professional              | Personal Branding      |
-| Property Platform | Real Estate               | Marketplace UX         |
-| Logos & Auth      | Branding / Authentication | Visual Identity        |
-
----
-
-#  Academic Context
-
-These projects were created during **Semester 5** as part of **Human-Computer Interaction (HCI) and Computer Graphics coursework**.
+These projects were created during Semester 5 as part of Human-Computer Interaction (HCI) and Computer Graphics coursework.
 
 The collection demonstrates the practical application of interface design and interaction principles across multiple domains.
 
----
-
-#  Learning Outcomes
+## Learning Outcomes
 
 Through this collection, I gained practical experience in:
 
-* UI/UX design
-* Human-Computer Interaction
-* Wireframing
-* Prototyping
-* Information architecture
-* Interaction design
-* Visual hierarchy
-* Responsive layout thinking
-* Design systems
-* User flows
-* Interface consistency
-* Figma workflows
-* Digital product design
+- UI/UX design
+- Human-Computer Interaction
+- Wireframing
+- Prototyping
+- Information architecture
+- Interaction design
+- Visual hierarchy
+- Responsive layout thinking
+- Design systems
+- User flows
+- Interface consistency
+- Figma workflows
+- Digital product design
+- Branding & visual identity
+- Landing page design
+- SaaS & dashboard design
+- AI product UI concepts
 
----
-
-#  Future Improvements
+## Future Improvements
 
 The prototypes can be taken further by converting them into functional applications.
 
 Potential next steps include:
 
-* Implementing designs using HTML/CSS/JavaScript
-* Building selected interfaces with React
-* Connecting designs to real APIs
-* Adding authentication
-* Adding databases
-* Conducting usability testing
-* Performing accessibility audits
-* Iterating designs based on user feedback
-* Creating complete UX case studies
-* Adding high-fidelity interaction states
-* Developing production-ready design systems
+- Implementing designs using HTML/CSS/JavaScript
+- Building selected interfaces with React
+- Connecting designs to real APIs
+- Adding authentication
+- Adding databases
+- Conducting usability testing
+- Performing accessibility audits
+- Iterating designs based on user feedback
+- Creating complete UX case studies
+- Adding high-fidelity interaction states
+- Developing production-ready design systems
 
----
-
-#  Designer
+## Designer
 
 **Esha Eman**
 
 Software Engineering Student
 Capital University of Science and Technology (CUST)
 
-GitHub: **[@eshaeman003](https://github.com/eshaeman003)**
+GitHub: [@eshaeman003](https://github.com/eshaeman003)
 
----
+## Repository Purpose
 
-#  Repository Purpose
-
-This repository serves as a **design portfolio and academic archive** of Figma prototypes created during my HCI and Computer Graphics coursework.
+This repository serves as a design portfolio and academic archive of Figma prototypes created during my HCI and Computer Graphics coursework.
 
 The projects demonstrate my interest in the intersection of:
 
 **Human-Computer Interaction × UI/UX Design × Software Engineering × Visual Communication**
 
----
-
 <p align="center">
 
-### 🎨 Designing for people, not just screens.
+🎨 Designing for people, not just screens.
 
-**Figma × HCI × UI/UX × Interaction Design**
+Figma × HCI × UI/UX × Interaction Design
 
 </p>

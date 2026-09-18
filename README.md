@@ -1,6 +1,6 @@
 #  Figma Projects - HCI & UI/UX Design Collection
 
-> **A collection of UI/UX design and Human-Computer Interaction projects created during my 5th semester, exploring user-centered interfaces, visual design, interaction patterns, and digital product experiences.**
+> **A collection of UI/UX design and Human-Computer Interaction projects created, exploring user-centered interfaces, visual design, interaction patterns, and digital product experiences.**
 
 <div align="center">
 

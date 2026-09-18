@@ -15,7 +15,7 @@
 
 ##  About This Collection
 
-This repository contains a collection of **Figma-based UI/UX prototypes and design projects** created during my **5th semester** as part of my **Human-Computer Interaction (HCI) and Computer Graphics** coursework.
+This repository contains a collection of **Figma-based UI/UX prototypes and design projects**
 
 Rather than focusing only on visual appearance, these projects explore how users interact with digital interfaces through:
 

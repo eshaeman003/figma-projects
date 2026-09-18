@@ -7,7 +7,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-F4C2C2?style=for-the-badge)
 ![HCI](https://img.shields.io/badge/HCI-Human%20Computer%20Interaction-9CAF88?style=for-the-badge)
-![Semester](https://img.shields.io/badge/Semester-5-E8B4C8?style=for-the-badge)
 
 </div>
 

@@ -52,8 +52,130 @@ Across these projects, the main goals were to:
 ---
 
 #  Projects
+###  — ✅ Team Productivity & Task Management App
 
-## 01 —  Health Record App
+**Overview**
+
+A productivity-focused prototype designed around helping teams organize tasks, track progress, and collaborate within a single, structured workspace.
+
+**Design Focus**
+
+- Task management UI
+- Team collaboration workflows
+- Progress tracking
+- Dashboard layout
+- Priority & status indicators
+- Productivity-oriented navigation
+
+**Figma Prototype**
+
+🔗 [Open Team Productivity & Task Management App in Figma](https://www.figma.com/community/file/1680657773542264503)
+
+---
+
+###  — 🤖 FlowPilot — AI Workflow Automation UI Concept
+
+**Overview**
+
+A UI concept for an AI-powered workflow automation tool, exploring how complex automation flows can be presented in a clear and approachable interface.
+
+**Design Focus**
+
+- Automation workflow visualization
+- AI-assisted interface design
+- Flow-based navigation
+- Complex data, simplified presentation
+- Modern SaaS UI patterns
+- Scalable layout structure
+
+**Figma Prototype**
+
+🔗 [Open FlowPilot in Figma](https://www.figma.com/community/file/1680627419144929816)
+
+---
+
+### —🖤 NOIR — Luxury Fragrance Landing Page
+
+**Overview**
+
+A luxury landing page concept for a fragrance brand, focusing on elegance, atmosphere, and premium visual storytelling through dark, refined aesthetics.
+
+**Design Focus**
+
+- Luxury branding
+- Landing page composition
+- Dark theme design
+- Typography-driven layout
+- Emotional visual storytelling
+- Premium product presentation
+
+**Figma Prototype**
+
+🔗 [Open NOIR in Figma](https://www.figma.com/community/file/1680920883371280837)
+
+---
+
+### — 🎨 Muse — AI-Powered Creative Inspiration Tool
+
+**Overview**
+
+A concept for an AI-driven creative inspiration platform, designed to help users discover, collect, and explore visual ideas in an engaging interface.
+
+**Design Focus**
+
+- Creative content discovery
+- AI-assisted inspiration flows
+- Card-based content layout
+- Visual exploration patterns
+- Engaging, modern UI
+- Content curation experience
+
+**Figma Prototype**
+
+🔗 [Open Muse in Figma](https://www.figma.com/community/file/1680942959647952413)
+
+---
+
+### — ☕ Mugs&Co — Café Website UI
+
+**Overview**
+
+A warm and inviting café website prototype, designed to present menus, ambiance, and brand personality through a cozy, approachable interface.
+
+**Design Focus**
+
+- Hospitality & food-brand UI
+- Warm visual identity
+- Menu presentation
+- Brand storytelling
+- Inviting layout & composition
+- Local business web design
+
+**Figma Prototype**
+
+🔗 [Open Mugs&Co in Figma](https://www.figma.com/community/file/1681051170339406883)
+
+---
+
+### — 🌍 Roam — Travel Discovery & Experience Platform
+
+**Overview**
+
+A travel platform prototype designed around discovering destinations, exploring experiences, and planning journeys through an immersive, visual interface.
+
+**Design Focus**
+
+- Travel discovery experience
+- Destination browsing
+- Immersive visual layouts
+- Experience-based navigation
+- Trip planning user flows
+- Content-rich storytelling
+
+**Figma Prototype**
+
+🔗 [Open Roam in Figma](https://www.figma.com/community/file/1681294534533043202)
+##  —  Health Record App
 
 ### Overview
 
@@ -74,7 +196,7 @@ A prototype for a **digital health record application** designed to organize and
 
 ---
 
-## 02 —  Student Registration & Dashboard
+## —  Student Registration & Dashboard
 
 ### Overview
 
@@ -95,7 +217,7 @@ A prototype for a **student registration system and academic dashboard**, design
 
 ---
 
-## 03 —  Water Awareness Poster
+## —  Water Awareness Poster
 
 ### Overview
 
@@ -118,7 +240,7 @@ Unlike the application-based projects in this collection, this project focuses m
 
 ---
 
-## 04 —  Furniture Design
+## —  Furniture Design
 
 ### Overview
 
@@ -139,7 +261,7 @@ A furniture-focused digital design prototype exploring how products can be visua
 
 ---
 
-## 05 —  Ticket Booking Website
+## —  Ticket Booking Website
 
 ### Overview
 
@@ -160,7 +282,7 @@ A prototype for a **ticket booking website** designed around the process of disc
 
 ---
 
-## 06 —  Mobile Gallery
+## —  Mobile Gallery
 
 ### Overview
 
@@ -181,7 +303,7 @@ A prototype inspired by a **mobile phone gallery application**, exploring how im
 
 ---
 
-## 07 —  Portfolio Designs
+## —  Portfolio Designs
 
 ### Overview
 
@@ -204,7 +326,7 @@ A collection of **portfolio website prototypes** exploring different ways of pre
 
 ---
 
-## 08 —  Property Buy & Sell Platform
+## —  Property Buy & Sell Platform
 
 ### Overview
 
@@ -225,7 +347,7 @@ A prototype for a **property marketplace** designed around buying and selling pr
 
 ---
 
-## 09 —  Logos & Authentication Designs
+##  —  Logos & Authentication Designs
 
 ### Overview
 
